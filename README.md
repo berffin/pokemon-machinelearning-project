@@ -4,17 +4,20 @@
 2. Open: jupyter notebook pokemon_analysis.ipynb
 
 Complete ML analysis predicting Pokémon types.
+Project Structure
+
 pokemon-analysis/
 ├── data/
-│   └── pokemon.csv
+│ └── pokemon.csv
 ├── notebooks/
-│   └── analysis.ipynb
+│ └── analysis.ipynb
 ├── src/
-│   ├── data_processing.py
-│   ├── visualization.py
-│   └── modeling.py
+│ ├── data_processing.py
+│ ├── visualization.py
+│ └── modeling.py
 ├── requirements.txt
 └── README.md
+
 Installation & Setup
 Install required packages: pip install -r requirements.txt
 
@@ -59,5 +62,6 @@ Seaborn
 Scikit-learn
 
 Jupyter Notebook
+
 
 
